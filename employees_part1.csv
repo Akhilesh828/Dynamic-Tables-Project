@@ -1,0 +1,11 @@
+emp_id,first_name,last_name,date_of_birth,date_of_joining,email_address,department,designation,level,office_location,active
+1,Sarah,Simpson,1984-01-20,2019-08-01,sarah.simpson_1@desimplified.com,IT,Director,L2,Oita,Yes
+2,Anthony,Wilkerson,1960-01-01,2023-04-20,anthony.wilkerson_2@desimplified.com,HR,Team Leader,L2,Leicester,Yes
+3,Emily,Carter,1990-05-14,2021-06-10,emily.carter_3@desimplified.com,Finance,Analyst,L1,New York,Yes
+4,Michael,Brown,1987-09-23,2018-03-18,michael.brown_4@desimplified.com,IT,Senior Engineer,L3,Bangalore,Yes
+5,Jessica,Lopez,1992-11-02,2020-12-01,jessica.lopez_5@desimplified.com,Marketing,Manager,L2,Sydney,Yes
+6,David,Nguyen,1985-02-17,2017-07-15,david.nguyen_6@desimplified.com,Operations,Supervisor,L2,Singapore,Yes
+7,Olivia,Martin,1994-06-09,2022-01-05,olivia.martin_7@desimplified.com,HR,Recruiter,L1,Toronto,Yes
+8,Daniel,Wilson,1981-08-30,2016-10-20,daniel.wilson_8@desimplified.com,IT,Architect,L4,London,Yes
+9,Sophia,Garcia,1996-03-12,2023-02-11,sophia.garcia_9@desimplified.com,Sales,Executive,L1,Madrid,Yes
+10,James,Anderson,1979-12-05,2015-05-25,james.anderson_10@desimplified.com,Finance,Manager,L3,Chicago,Yes

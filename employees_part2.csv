@@ -1,0 +1,11 @@
+emp_id,first_name,last_name,date_of_birth,date_of_joining,email_address,department,designation,level,office_location,active
+11,Linda,Thompson,1988-04-18,2020-09-14,linda.thompson_11@desimplified.com,IT,Product Manager,L2,Berlin,Yes
+12,Robert,Harris,1975-07-21,2014-11-03,robert.harris_12@desimplified.com,Operations,Director,L4,Amsterdam,Yes
+13,Natalie,Young,1993-01-27,2021-04-19,natalie.young_13@desimplified.com,Marketing,Specialist,L1,Paris,Yes
+14,Kevin,Clark,1986-10-11,2019-02-28,kevin.clark_14@desimplified.com,IT,DevOps Engineer,L3,Dublin,Yes
+15,Amanda,Hall,1991-08-08,2022-06-01,amanda.hall_15@desimplified.com,HR,HR Partner,L2,Melbourne,Yes
+16,Thomas,Allen,1983-03-15,2017-09-09,thomas.allen_16@desimplified.com,Finance,Controller,L3,Boston,Yes
+17,Rebecca,King,1995-12-19,2023-01-10,rebecca.king_17@desimplified.com,Sales,Associate,L1,San Diego,Yes
+18,Andrew,Wright,1989-06-25,2020-08-17,andrew.wright_18@desimplified.com,IT,Backend Engineer,L2,Pune,Yes
+19,Laura,Scott,1978-09-02,2013-03-12,laura.scott_19@desimplified.com,Operations,Manager,L3,Auckland,Yes
+20,Steven,Green,1984-11-29,2018-12-05,steven.green_20@desimplified.com,Marketing,Campaign Lead,L2,Tokyo,Yes
